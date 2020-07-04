@@ -1,2 +1,6 @@
 # hello-world
-a shortish description 
+
+Hello everybody 
+
+I am Joe and I like snow 
+
